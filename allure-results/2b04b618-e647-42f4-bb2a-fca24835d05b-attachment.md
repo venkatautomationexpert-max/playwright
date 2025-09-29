@@ -1,0 +1,139 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - button "Skip to main content"
+      - link "Asbury Park Press" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5] [cursor=pointer]
+    - link "MARKETPLACE Search For & Place Classifieds" [ref=e9] [cursor=pointer]:
+      - /url: https://subscribe.app.com/rr/nanobar?gps-source=CPTILELEFT&itm_campaign=2025ENTCFTEST3A&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.app.com%2Ferrors%2F404%2F
+    - link "SUBSCRIBE NOW Get 6 months free" [ref=e11] [cursor=pointer]:
+      - /url: https://subscribe.app.com/rr/masthead?gps-source=CPMASTHEAD&itm_campaign=2025ENTCFTEST3A&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.app.com%2Ferrors%2F404%2F
+    - navigation "Global navigation" [ref=e12]:
+      - link "News" [ref=e13] [cursor=pointer]:
+        - /url: /news/
+      - link "Sports" [ref=e14] [cursor=pointer]:
+        - /url: /sports/
+      - link "Monmouth" [ref=e15] [cursor=pointer]:
+        - /url: /news/monmouth-county/
+      - link "Ocean" [ref=e16] [cursor=pointer]:
+        - /url: /news/ocean-county/
+      - link "Advertise" [ref=e17] [cursor=pointer]:
+        - /url: https://cm.app.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=appcom_asbury_park_press&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us
+      - link "Obituaries" [ref=e18] [cursor=pointer]:
+        - /url: /obituaries
+      - link "eNewspaper" [ref=e19] [cursor=pointer]:
+        - /url: https://user.app.com/user/enewspaper
+      - link "Legals" [ref=e20] [cursor=pointer]:
+        - /url: /public-notices
+      - button "Global Navigation" [ref=e22] [cursor=pointer]:
+        - img [ref=e23] [cursor=pointer]
+      - generic [ref=e25]:
+        - link "Search" [ref=e27] [cursor=pointer]:
+          - /url: /search/
+          - img [ref=e28] [cursor=pointer]
+        - 'link "Weather in Neptune: 69°F Mostly Clear" [ref=e30] [cursor=pointer]':
+          - /url: /weather/
+          - text: 69°F
+        - link "Subscribe" [ref=e31] [cursor=pointer]:
+          - /url: https://subscribe.app.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2025ENTCFTEST3A&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.app.com%2Ferrors%2F404%2F
+        - link "Sign In" [ref=e33] [cursor=pointer]:
+          - /url: https://login.app.com/PAPP-GUP/authenticate/?success-url=https%3A%2F%2Fwww.app.com%2Ferrors%2F404%2F&cancel-url=https%3A%2F%2Fwww.app.com%2Ferrors%2F404%2F
+          - text: Sign In
+          - img [ref=e34] [cursor=pointer]
+  - complementary "advertisement" [ref=e36]:
+    - text: Advertisement
+    - iframe [ref=e39]:
+      - generic [active]:
+        - generic [ref=f1e3] [cursor=pointer]:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: LIFE IS BETTER WITH A BOAT!
+            - generic:
+              - generic:
+                - paragraph: SEPT. 26–28
+            - generic:
+              - generic:
+                - paragraph:
+                  - generic:
+                    - text: ShoreTown Ballpark
+                    - text: in Lakewood
+            - generic:
+              - generic:
+                - paragraph: Hundreds of boats! Tickets on sale now at JerseyBoatExpo.com.
+        - iframe
+  - main [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: "404"
+        - generic [ref=e44]: PAGE NOT FOUND
+        - generic [ref=e45]: Sorry, the link you're trying to access is either broken or no longer exists.
+        - text: Please use the search bar or take a look at some of our trending stories below.
+      - search [ref=e46]:
+        - textbox "Search query" [ref=e47]
+        - button "Submit" [ref=e48] [cursor=pointer]:
+          - img [ref=e49] [cursor=pointer]
+      - generic [ref=e51]: Most Recent
+      - generic [ref=e52]:
+        - link "Jackson mayor Michael Reina steps down one year before re-election LOCAL 5:29 p.m. ET Sept. 23 Mayor ends 17-year run as top leader, claims no animosity despite recent sharp salary cut" [ref=e53] [cursor=pointer]:
+          - /url: /story/news/local/2025/09/23/jackson-mayor-michael-reina-to-leave-office-oct-1/86315993007/
+          - text: Jackson mayor Michael Reina steps down one year before re-election
+          - generic [ref=e54] [cursor=pointer]: LOCAL 5:29 p.m. ET Sept. 23
+          - text: Mayor ends 17-year run as top leader, claims no animosity despite recent sharp salary cut
+        - link "Lakewood again seeks to rehire $6 million lawyer but state blocks him LOCAL 5:41 p.m. ET Sept. 23 School board again seeks to hire costliest applicant, Michael Inzelbuch, as state monitor counters with delay." [ref=e55] [cursor=pointer]:
+          - /url: /story/news/local/2025/09/23/lakewood-tries-rehire-lawyer-state-blocks-again-michael-inzelbuch/86308053007/
+          - text: Lakewood again seeks to rehire $6 million lawyer but state blocks him
+          - generic [ref=e56] [cursor=pointer]: LOCAL 5:41 p.m. ET Sept. 23
+          - text: School board again seeks to hire costliest applicant, Michael Inzelbuch, as state monitor counters with delay.
+        - link "This change is leading OceanFirst Bank to lay off 114 workers BUSINESS 5:04 a.m. ET Sept. 23 OceanFirst Bank will layoff 114 employees in December, nearly all of them working on residential mortgages." [ref=e57] [cursor=pointer]:
+          - /url: /story/money/business/2025/09/23/oceanfirst-bank-laying-off-114-workers-most-in-home-loans/86293189007/
+          - text: This change is leading OceanFirst Bank to lay off 114 workers
+          - generic [ref=e58] [cursor=pointer]: BUSINESS 5:04 a.m. ET Sept. 23
+          - text: OceanFirst Bank will layoff 114 employees in December, nearly all of them working on residential mortgages.
+        - link "Mega Millions numbers for Tuesday, Sept. 23, 2025 LOTTERY 11:06 p.m. ET Sept. 23 Mega Millions winning numbers are in for the Tuesday, Sept. 23 drawing. Check out the results." [ref=e60] [cursor=pointer]:
+          - /url: /story/news/lottery/2025/09/23/mega-millions-nj-lottery-september-23-2025/86308524007/
+          - text: Mega Millions numbers for Tuesday, Sept. 23, 2025
+          - generic [ref=e61] [cursor=pointer]: LOTTERY 11:06 p.m. ET Sept. 23
+          - text: Mega Millions winning numbers are in for the Tuesday, Sept. 23 drawing. Check out the results.
+        - link "Life plus 30 years for Long Branch man in home invasion, woman's death CRIME 3:56 p.m. ET Sept. 23 Altonia D. Williams, 47, of Long Branch was convicted in June of an armed home invasion that led to the death of a woman with him." [ref=e62] [cursor=pointer]:
+          - /url: /story/news/crime/2025/09/23/30-years-to-life-for-altonia-williams-home-invasion-death-tracee-blount/86309626007/
+          - text: Life plus 30 years for Long Branch man in home invasion, woman's death
+          - generic [ref=e63] [cursor=pointer]: CRIME 3:56 p.m. ET Sept. 23
+          - text: Altonia D. Williams, 47, of Long Branch was convicted in June of an armed home invasion that led to the death of a woman with him.
+        - link "Routh guilty of trying to kill Trump, tries to stab himself with pen NATION 8:17 p.m. ET Sept. 23 After the verdict was read, Routh appeared to try to stab himself in the neck with a pen. Authorities restrained and escorted him from the courtroom." [ref=e64] [cursor=pointer]:
+          - /url: /story/news/nation/2025/09/23/ryan-routh-guilty-donald-trump-assassination-attempt/86238983007/
+          - text: Routh guilty of trying to kill Trump, tries to stab himself with pen
+          - generic [ref=e65] [cursor=pointer]: NATION 8:17 p.m. ET Sept. 23
+          - text: After the verdict was read, Routh appeared to try to stab himself in the neck with a pen. Authorities restrained and escorted him from the courtroom.
+        - 'link "Jaxson Dart named Giants starting quarterback: What it means GIANTS 3:55 p.m. ET Sept. 23 The New York Giants are 0-3. Their offense has flatlined in two of those games. It''s Jaxson Dart time with the rookie replacing Russell Wilson as QB1." [ref=e66] [cursor=pointer]':
+          - /url: /story/sports/nfl/giants/2025/09/23/jaxson-dart-new-york-giants-starting-quarterback/86291064007/
+          - text: "Jaxson Dart named Giants starting quarterback: What it means"
+          - generic [ref=e67] [cursor=pointer]: GIANTS 3:55 p.m. ET Sept. 23
+          - text: The New York Giants are 0-3. Their offense has flatlined in two of those games. It's Jaxson Dart time with the rookie replacing Russell Wilson as QB1.
+    - generic [ref=e68]:
+      - complementary "advertisement" [ref=e70]:
+        - text: Advertisement
+        - iframe [ref=e73]:
+          - generic [active] [ref=f2e1]:
+            - insertion [ref=f2e3]:
+              - iframe [ref=f2e4]:
+                
+            - iframe
+      - complementary "advertisement" [ref=e74]:
+        - text: Advertisement
+        - iframe [ref=e77]:
+          - generic [active] [ref=f4e1]:
+            - insertion [ref=f4e3]:
+              - iframe [ref=f4e4]:
+                
+            - iframe
+  - contentinfo [ref=e78]:
+    - complementary "advertisement" [ref=e79]: Advertisement
+    - text: About Support Stay Connected Our Partners
+    - complementary "advertisement" [ref=e81]: Advertisement
+    - generic [ref=e83]: © 2025 www.app.com. All rights reserved.
+```

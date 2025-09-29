@@ -1,0 +1,3 @@
+titlte is async title() {
+    return await this._mainFrame.title();
+  }

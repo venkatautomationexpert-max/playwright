@@ -1,0 +1,2 @@
+all link names[object Promise]
+Number of links: 25

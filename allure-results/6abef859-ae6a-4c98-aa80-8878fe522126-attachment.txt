@@ -1,0 +1,6 @@
+page 1 items:Mango,Apple,Papaya,Banana,Kivi,Orange,Mango,Apple,Papaya,Banana
+total pages navigated1
+page 2 items:Kivi,Orange,Mango,Apple,Papaya,Banana,Kivi,Orange,Mango,Apple
+total pages navigated2
+page 3 items:Papaya,Banana,Kivi,Orange,Mango,Apple,Papaya,Banana,Kivi,Orange
+total pages navigated3

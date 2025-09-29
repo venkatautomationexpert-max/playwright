@@ -1,0 +1,9 @@
+TOTAL NO OF columns:4
+No of rows:5
+table data is 1
+table data is Smartphone
+table data is $10.99
+table data is 2
+table data is Laptop
+table data is $19.99
+table data is 3
